@@ -1,5 +1,5 @@
 
-Welcome to my NLP Homework repository! This project is a collection, where I explored various Natural Language Processing techniques. The repository is divided into four major exercises:
+Welcome to my NLP repository! This project is a collection, where I explored various Natural Language Processing techniques. The repository is divided into four major exercises:
 
 ## Overview
 
