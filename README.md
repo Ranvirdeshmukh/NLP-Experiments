@@ -3,6 +3,8 @@ Welcome to my NLP repository! This project is a collection, where I explored var
 
 ## Overview
 
+
+
 1. **Clustering Shakespeare**
    - **Objective:** Process Shakespeare's plays using TF-IDF and group them via KMeans clustering.
    - **Visualization:** Generate a hierarchical clustering dendrogram.
